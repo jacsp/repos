@@ -17,15 +17,18 @@
 
 class Person
 {
+    // Initialize class variables
     public string name;
     public int age;
 
+    // Class constructor
     public Person(string name, int age)
     {
         this.name = name;
         this.age = age;
     }
 
+    // Class method
     public void ageAndName()
     {
         Console.WriteLine(name + " er " + age + " år gammel.");
