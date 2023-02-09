@@ -3,12 +3,31 @@
     private static void Main(string[] args)
     {
         // Bruger input
-        Console.Write("Indtast navn: ");
-        string? navn = Console.ReadLine();
-        Console.Write("Indtast alder: ");
-        string? alder = Console.ReadLine();
+        //Console.Write("Input name: ");
+        //string? name = Console.ReadLine();
+        //Console.Write("Input age: ");
+        //string? age = Console.ReadLine();
 
         // Print to console
-        Console.WriteLine(navn + " er " + alder + " år gammel.");
+        //Console.WriteLine(name + " er " + age + " år gammel.");
+        Person person = new Person("Jacob", 20);
+        person.ageAndName();
+    }
+}
+
+class Person
+{
+    public string name;
+    public int age;
+
+    public Person(string name, int age)
+    {
+        this.name = name;
+        this.age = age;
+    }
+
+    public void ageAndName()
+    {
+        Console.WriteLine(name + " er " + age + " år gammel.");
     }
 }
