@@ -3,14 +3,14 @@
     private static void Main(string[] args)
     {
         // Bruger input
-        //Console.Write("Input name: ");
-        //string? name = Console.ReadLine();
-        //Console.Write("Input age: ");
-        //string? age = Console.ReadLine();
+        Console.Write("Input name: ");
+        string? name = Console.ReadLine();
+        Console.Write("Input age: ");
+        int age = Int32.Parse(Console.ReadLine());
 
         // Print to console
         //Console.WriteLine(name + " er " + age + " år gammel.");
-        Person person = new Person("Jacob", 20);
+        Person person = new Person(name, age);
         person.ageAndName();
     }
 }
