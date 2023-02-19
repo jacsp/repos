@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\bin\Debug\net7.0\ConsoleThing.exe
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\bin\Debug\net7.0\ConsoleThing.deps.json
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\bin\Debug\net7.0\ConsoleThing.runtimeconfig.json
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\bin\Debug\net7.0\ConsoleThing.dll
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\bin\Debug\net7.0\ConsoleThing.pdb
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ConsoleThing.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ConsoleThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ConsoleThing.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ConsoleThing.AssemblyInfo.cs
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ConsoleThing.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ConsoleThing.dll
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\refint\ConsoleThing.dll
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ConsoleThing.pdb
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ConsoleThing.genruntimeconfig.cache
+C:\Users\jacob\source\repos\ConsoleThing\ConsoleThing\obj\Debug\net7.0\ref\ConsoleThing.dll
