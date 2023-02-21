@@ -79,7 +79,29 @@
             //}
 
             // Øvelse 2.12
-            string _inputString = Console.ReadLine();
+            // Virker ikke med negative tal først
+            string inputString = Console.ReadLine();
+
+            string[] inputNums = inputString.Split('+', '-');
+
+            int result = Int32.Parse(inputNums[0]);
+
+            int i = 1;
+            foreach (char c in inputString)
+            {
+                if (c == '+')
+                {
+                    result += Int32.Parse(inputNums[i]);
+                    i++;
+                }
+                if (c == '-')
+                {
+                    result -= Int32.Parse(inputNums[i]);
+                    i++;
+                }
+            }
+
+            Console.WriteLine(result);
         }
     }
 }
