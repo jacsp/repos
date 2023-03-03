@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\bin\Debug\net7.0\MenuSystem.exe
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\bin\Debug\net7.0\MenuSystem.deps.json
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\bin\Debug\net7.0\MenuSystem.runtimeconfig.json
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\bin\Debug\net7.0\MenuSystem.dll
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\bin\Debug\net7.0\MenuSystem.pdb
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\MenuSystem.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfo.cs
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\MenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\MenuSystem.dll
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\refint\MenuSystem.dll
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\MenuSystem.pdb
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\MenuSystem.genruntimeconfig.cache
+C:\Users\jacob\source\repos\MenuSystem\MenuSystem\obj\Debug\net7.0\ref\MenuSystem.dll
