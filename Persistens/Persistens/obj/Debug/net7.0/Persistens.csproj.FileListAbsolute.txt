@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\Persistens\Persistens\bin\Debug\net7.0\Persistens.exe
+C:\Users\jacob\source\repos\Persistens\Persistens\bin\Debug\net7.0\Persistens.deps.json
+C:\Users\jacob\source\repos\Persistens\Persistens\bin\Debug\net7.0\Persistens.runtimeconfig.json
+C:\Users\jacob\source\repos\Persistens\Persistens\bin\Debug\net7.0\Persistens.dll
+C:\Users\jacob\source\repos\Persistens\Persistens\bin\Debug\net7.0\Persistens.pdb
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\Persistens.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\Persistens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\Persistens.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\Persistens.AssemblyInfo.cs
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\Persistens.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\Persistens.dll
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\refint\Persistens.dll
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\Persistens.pdb
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\Persistens.genruntimeconfig.cache
+C:\Users\jacob\source\repos\Persistens\Persistens\obj\Debug\net7.0\ref\Persistens.dll
