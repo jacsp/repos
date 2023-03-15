@@ -19,20 +19,20 @@ namespace Persistens
 
         public Person(string name, DateTime birthDate, double height, bool isMarried, int noOfChildren)
         {
-            this.name = name;
-            this.birthDate = birthDate;
-            this.height = height;
-            this.isMarried = isMarried;
-            this.noOfChildren = noOfChildren;
+            this.Name = name;
+            this.BirthDate = birthDate;
+            this.Height = height;
+            this.IsMarried = isMarried;
+            this.NoOfChildren = noOfChildren;
         }
 
         public Person(string name, DateTime birthDate, double height, bool isMarried)
         {
-            this.name = name;
-            this.birthDate = birthDate;
-            this.height = height;
-            this.isMarried = isMarried;
-            this.noOfChildren = 0;
+            this.Name = name;
+            this.BirthDate = birthDate;
+            this.Height = height;
+            this.IsMarried = isMarried;
+            this.NoOfChildren = 0;
         }
 
         public string Name
@@ -42,7 +42,7 @@ namespace Persistens
             {
                 if (value.Length < 1)
                 {
-                    throw new ArgumentException("Navnet skal indeholde mindst 1 karakter");
+                    throw new Exception("Navnet skal indeholde mindst 1 karakter");
                 } 
                 else
                 {
