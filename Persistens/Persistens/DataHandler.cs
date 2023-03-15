@@ -47,5 +47,52 @@ namespace Persistens
             
             return person;
         }
+
+        public void SavePersons(Person[] persons)
+        {
+            StreamWriter sw = new StreamWriter(dataFileName);
+
+            for (int i = 0; i < persons.Length; i++)
+            {
+                // For every person in persons[] make write a new line.
+                sw.WriteLine(persons[i].MakeTitle());
+            }
+
+            sw.Close();
+        }
+
+        public Person[] LoadPersons()
+        {
+            string line;
+
+            // Supports loading up to 100 people now.
+            Person[] people = new Person[100];
+
+            StreamReader sr = new StreamReader(dataFileName);
+
+            line = sr.ReadLine();
+
+            // Read each line one by and add it to and array.
+            int i = 0;
+            while (line != null)
+            {
+                string[] values;
+                
+                values = line.Split(';');
+
+                Person person = new Person(values[0], DateTime.Parse(values[1]), double.Parse(values[2]), bool.Parse(values[3]), Int32.Parse(values[4]));
+
+                people[i] = person;
+
+                i++;
+
+                // Read next line
+                line = sr.ReadLine();
+            }
+
+            sr.Close();
+
+            return people;
+        }
     }
 }
