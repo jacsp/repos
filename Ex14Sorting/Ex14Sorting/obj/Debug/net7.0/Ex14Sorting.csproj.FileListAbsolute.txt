@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\bin\Debug\net7.0\Ex14Sorting.exe
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\bin\Debug\net7.0\Ex14Sorting.deps.json
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\bin\Debug\net7.0\Ex14Sorting.runtimeconfig.json
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\bin\Debug\net7.0\Ex14Sorting.dll
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\bin\Debug\net7.0\Ex14Sorting.pdb
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\Ex14Sorting.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\Ex14Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\Ex14Sorting.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\Ex14Sorting.AssemblyInfo.cs
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\Ex14Sorting.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\Ex14Sorting.dll
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\refint\Ex14Sorting.dll
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\Ex14Sorting.pdb
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\Ex14Sorting.genruntimeconfig.cache
+C:\Users\jacob\source\repos\Ex14Sorting\Ex14Sorting\obj\Debug\net7.0\ref\Ex14Sorting.dll

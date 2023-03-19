@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\bin\Debug\net7.0\SortingArrays.exe
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\bin\Debug\net7.0\SortingArrays.deps.json
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\bin\Debug\net7.0\SortingArrays.runtimeconfig.json
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\bin\Debug\net7.0\SortingArrays.dll
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\bin\Debug\net7.0\SortingArrays.pdb
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\SortingArrays.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\SortingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\SortingArrays.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\SortingArrays.AssemblyInfo.cs
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\SortingArrays.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\SortingArrays.dll
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\refint\SortingArrays.dll
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\SortingArrays.pdb
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\SortingArrays.genruntimeconfig.cache
+C:\Users\jacob\source\repos\SortingArrays\SortingArrays\obj\Debug\net7.0\ref\SortingArrays.dll
