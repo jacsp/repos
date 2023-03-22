@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\Disaheim.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\Disaheim.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\Disaheim.AssemblyInfo.cs
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\Disaheim.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Disaheim\Disaheim\bin\Debug\net7.0\Disaheim.exe
+C:\Users\jacob\source\repos\Disaheim\Disaheim\bin\Debug\net7.0\Disaheim.deps.json
+C:\Users\jacob\source\repos\Disaheim\Disaheim\bin\Debug\net7.0\Disaheim.runtimeconfig.json
+C:\Users\jacob\source\repos\Disaheim\Disaheim\bin\Debug\net7.0\Disaheim.dll
+C:\Users\jacob\source\repos\Disaheim\Disaheim\bin\Debug\net7.0\Disaheim.pdb
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\Disaheim.dll
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\refint\Disaheim.dll
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\Disaheim.pdb
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\Disaheim.genruntimeconfig.cache
+C:\Users\jacob\source\repos\Disaheim\Disaheim\obj\Debug\net7.0\ref\Disaheim.dll
