@@ -8,27 +8,9 @@ namespace Disaheim
 {
     public class Amulet
     {
-        string itemId;
-        string design;
-        Level quality;
-
-        public string ItemId
-        {
-            get { return itemId; }
-            set { itemId = value; }
-        }
-
-        public string Design
-        {
-            get { return design; }
-            set { design = value; }
-        }
-
-        public Level Quality
-        {
-            get { return quality; }
-            set { quality = value; }
-        }
+        public string ItemId { get; set; }
+        public string Design { get; set; }
+        public Level Quality { get; set; }
 
         public Amulet(string itemId, Level quality, string design)
         {
@@ -49,7 +31,7 @@ namespace Disaheim
 
         public override string ToString()
         {
-            return $"ItemId: {itemId}, Quality: {quality}, Design: {design}";
+            return $"ItemId: {ItemId}, Quality: {Quality}, Design: {Design}";
         }
     }
 }
