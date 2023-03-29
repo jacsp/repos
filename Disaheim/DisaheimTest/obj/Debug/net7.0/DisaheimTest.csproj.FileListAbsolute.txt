@@ -103,3 +103,5 @@ C:\Users\jacob\source\repos\Disaheim\DisaheimTest\obj\Debug\net7.0\refint\Disahe
 C:\Users\jacob\source\repos\Disaheim\DisaheimTest\obj\Debug\net7.0\DisaheimTest.pdb
 C:\Users\jacob\source\repos\Disaheim\DisaheimTest\obj\Debug\net7.0\DisaheimTest.genruntimeconfig.cache
 C:\Users\jacob\source\repos\Disaheim\DisaheimTest\obj\Debug\net7.0\ref\DisaheimTest.dll
+C:\Users\jacob\source\repos\Disaheim\DisaheimTest\bin\Debug\net7.0\UtilityLib.dll
+C:\Users\jacob\source\repos\Disaheim\DisaheimTest\bin\Debug\net7.0\UtilityLib.pdb

@@ -30,5 +30,21 @@ namespace Disaheim
                     return 0;
             }
         }
+
+        public double GetValueOfCourse(Course course)
+        {
+            int remainder;
+            int startedHours = Math.DivRem(course.DurationInMinutes, 60, out remainder);
+
+            if (remainder == 0)
+            {
+                return 875 * startedHours;
+            }
+            else
+            {
+                startedHours += 1;
+                return 875 * startedHours;
+            }
+        }
     }
 }
