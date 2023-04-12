@@ -11,6 +11,11 @@ namespace Disaheim
         public string Title { get; set; }
         public double Price { get; set; }
 
+        public override double GetValue()
+        {
+            return Price;
+        }
+
         public Book(string itemId, string title, double price)
         {
             ItemId = itemId;

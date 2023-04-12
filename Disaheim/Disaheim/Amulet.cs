@@ -10,6 +10,29 @@ namespace Disaheim
     {
         public string Design { get; set; }
         public Level Quality { get; set; }
+        public static double 
+            LowQualityValue = 12.5, 
+            MediumQualityValue = 20.0, 
+            HighQualityValue = 27.5;
+        
+        public override double GetValue()
+        {
+            switch (Quality)
+            {
+                case Level.low:
+                    return LowQualityValue;
+                    break;
+                case Level.medium:
+                    return MediumQualityValue;
+                    break;
+                case Level.high:
+                    return HighQualityValue;
+                    break;
+                default:
+                    return HighQualityValue;
+                    break;
+            }
+        }
 
         public Amulet(string itemId, Level quality, string design)
         {
