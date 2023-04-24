@@ -1,0 +1,12 @@
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\bin\Debug\net7.0\TotallySafeLib.deps.json
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\bin\Debug\net7.0\TotallySafeLib.dll
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\bin\Debug\net7.0\TotallySafeLib.pdb
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\TotallySafeLib.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\TotallySafeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\TotallySafeLib.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\TotallySafeLib.AssemblyInfo.cs
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\TotallySafeLib.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\TotallySafeLib.dll
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\refint\TotallySafeLib.dll
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\TotallySafeLib.pdb
+C:\Users\jacob\source\repos\CustomExceptionHandling\TotallySafeLib\obj\Debug\net7.0\ref\TotallySafeLib.dll
