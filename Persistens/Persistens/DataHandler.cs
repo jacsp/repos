@@ -22,11 +22,17 @@ namespace Persistens
 
         public void SavePerson(Person person)
         {
-            StreamWriter sw = new StreamWriter(dataFileName);
-
-            sw.Write(person.MakeTitle());
-
-            sw.Close();
+            using (StreamWriter sw = new StreamWriter(dataFileName))
+            {
+                try
+                {
+                    sw.Write(person.MakeTitle());
+                }
+                finally
+                {
+                    sw.Dispose();
+                }
+            }
         }
 
         public Person LoadPerson()
@@ -34,14 +40,21 @@ namespace Persistens
             string line;
             string[] values;
 
-            StreamReader sr = new StreamReader(dataFileName);
+            using (StreamReader sr = new(dataFileName))
+            {
+                try
+                {
+                    line = sr.ReadLine();
 
-            line = sr.ReadLine();
+                    sr.Close();
 
-            sr.Close();
-
-            values = line.Split(";");
-
+                    values = line.Split(";");
+                }
+                finally
+                {
+                    sr.Dispose();
+                }
+            }
             // TODO Lav en mere error proof parsing af strings
             Person person = new Person(values[0], DateTime.Parse(values[1]), double.Parse(values[2]), bool.Parse(values[3]), Int32.Parse(values[4]));
             
@@ -50,15 +63,21 @@ namespace Persistens
 
         public void SavePersons(Person[] persons)
         {
-            StreamWriter sw = new StreamWriter(dataFileName);
-
-            for (int i = 0; i < persons.Length; i++)
+            using (StreamWriter sw = new StreamWriter(dataFileName))
             {
-                // For every person in persons[] make write a new line.
-                sw.WriteLine(persons[i].MakeTitle());
+                try
+                {
+                    for (int i = 0; i < persons.Length; i++)
+                    {
+                        // For every person in persons[] make write a new line.
+                        sw.WriteLine(persons[i].MakeTitle());
+                    }
+                }
+                finally
+                {
+                    sw.Dispose();
+                }
             }
-
-            sw.Close();
         }
 
         public Person[] LoadPersons()
@@ -68,29 +87,35 @@ namespace Persistens
             // Supports loading up to 100 people now.
             Person[] people = new Person[100];
 
-            StreamReader sr = new StreamReader(dataFileName);
-
-            line = sr.ReadLine();
-
-            // Read each line one by and add it to and array.
-            int i = 0;
-            while (line != null)
+            using (StreamReader sr = new StreamReader(dataFileName))
             {
-                string[] values;
-                
-                values = line.Split(';');
+                try
+                {
+                    line = sr.ReadLine();
 
-                Person person = new Person(values[0], DateTime.Parse(values[1]), double.Parse(values[2]), bool.Parse(values[3]), Int32.Parse(values[4]));
+                    // Read each line one by and add it to and array.
+                    int i = 0;
+                    while (line != null)
+                    {
+                        string[] values;
 
-                people[i] = person;
+                        values = line.Split(';');
 
-                i++;
+                        Person person = new Person(values[0], DateTime.Parse(values[1]), double.Parse(values[2]), bool.Parse(values[3]), Int32.Parse(values[4]));
 
-                // Read next line
-                line = sr.ReadLine();
+                        people[i] = person;
+
+                        i++;
+
+                        // Read next line
+                        line = sr.ReadLine();
+                    }
+                }
+                finally
+                {
+                    sr.Dispose();
+                }
             }
-
-            sr.Close();
 
             return people;
         }
