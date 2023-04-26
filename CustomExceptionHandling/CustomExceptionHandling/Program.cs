@@ -6,17 +6,23 @@ namespace CustomExceptionHandling
     {
         static void Main(string[] args)
         {
+            int posValue = 0;
+
             try
             {
-                int posValue = TotallySafe.GetValueAtPosition(-2);
-
-                Console.WriteLine(posValue);
-                Console.ReadLine();
+                posValue = TotallySafe.GetValueAtPosition(-2);
             }
-            catch (NegativeIndexOutOfRangeException ex)
+            catch (IndexOutOfRangeException e)
             {
-                
+                Console.WriteLine(e.Message);
             }
+            catch (NegativeIndexOutOfRangeException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            Console.WriteLine(posValue);
+            Console.ReadLine();
         }
     }
 }

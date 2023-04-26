@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\bin\Debug\net7.0\Ex22-ResourceManagement.exe
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\bin\Debug\net7.0\Ex22-ResourceManagement.deps.json
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\bin\Debug\net7.0\Ex22-ResourceManagement.runtimeconfig.json
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\bin\Debug\net7.0\Ex22-ResourceManagement.dll
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\bin\Debug\net7.0\Ex22-ResourceManagement.pdb
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\Ex22-ResourceManagement.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\Ex22-ResourceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\Ex22-ResourceManagement.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\Ex22-ResourceManagement.AssemblyInfo.cs
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\Ex22-ResourceManagement.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\Ex22-ResourceManagement.dll
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\refint\Ex22-ResourceManagement.dll
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\Ex22-ResourceManagement.pdb
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\Ex22-ResourceManagement.genruntimeconfig.cache
+C:\Users\jacob\source\repos\Ex22-ResourceManagement\Ex22-ResourceManagement\obj\Debug\net7.0\ref\Ex22-ResourceManagement.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ex22-ResourceManagement/1.0.0": {
+        "runtime": {
+          "Ex22-ResourceManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex22-ResourceManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
