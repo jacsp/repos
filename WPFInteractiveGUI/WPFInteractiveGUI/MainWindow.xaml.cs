@@ -46,7 +46,7 @@ namespace WPFInteractiveGUI
             {
                 tbFirstName.Text = "";
                 tbLastName.Text = "";
-                tbAge.Text = 0;
+                tbAge.Text = 0.ToString();
                 tbTelephone.Text = "";
             }
         }
@@ -99,22 +99,26 @@ namespace WPFInteractiveGUI
 
         private void tbFirstName_TextChanged(object sender, TextChangedEventArgs e)
         {
-            controller.CurrentPerson.FirstName = tbFirstName.Text;
+            if (controller.PersonCount != 0)
+                controller.CurrentPerson.FirstName = tbFirstName.Text;
         }
 
         private void tbLastName_TextChanged(object sender, TextChangedEventArgs e)
         {
-            controller.CurrentPerson.LastName = tbLastName.Text;
+            if (controller.PersonCount != 0)
+                controller.CurrentPerson.LastName = tbLastName.Text;
         }
 
         private void tbAge_TextChanged(object sender, TextChangedEventArgs e)
         {
-            controller.CurrentPerson.Age = int.Parse(tbAge.Text);
+            if (controller.PersonCount != 0)
+                controller.CurrentPerson.Age = int.Parse(tbAge.Text);
         }
 
         private void tbTelephone_TextChanged(object sender, TextChangedEventArgs e)
         {
-            controller.CurrentPerson.TelephoneNo = tbTelephone.Text;
+            if (controller.PersonCount != 0)
+                controller.CurrentPerson.TelephoneNo = tbTelephone.Text;
         }
     }
 }
