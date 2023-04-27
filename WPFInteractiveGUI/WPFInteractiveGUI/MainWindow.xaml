@@ -1,0 +1,26 @@
+﻿<Window x:Class="WPFInteractiveGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFInteractiveGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lbPersonCount" Content="Person Count 0" Margin="112,99,578,304"/>
+        <Label x:Name="lbIndex" Content="Index -1" Margin="232,99,458,304"/>
+        <Label Content="FirstName" Margin="112,150,578,253"/>
+        <Label Content="LastName" Margin="112,186,578,217"/>
+        <Label Content="Age" Margin="112,222,578,181"/>
+        <Label Content="TelephoneNo" Margin="112,258,578,145"/>
+        <TextBox x:Name="tbFirstName" TextWrapping="Wrap" Text="" Width="120" Margin="222,155,458,253" TextChanged="tbFirstName_TextChanged" IsEnabled="False"/>
+        <TextBox x:Name="tbLastName" TextWrapping="Wrap" Text="" Width="120" Margin="222,188,458,219" TextChanged="tbLastName_TextChanged" IsEnabled="False"/>
+        <TextBox x:Name="tbAge" TextWrapping="Wrap" Text="" Width="120" Margin="222,224,458,183" TextChanged="tbAge_TextChanged" IsEnabled="False"/>
+        <TextBox x:Name="tbTelephone" TextWrapping="Wrap" Text="" Width="120" Margin="222,260,458,147" TextChanged="tbTelephone_TextChanged" IsEnabled="False"/>
+        <Button x:Name="btnNewPerson" Content="New Person" Margin="378,153,306,256" Click="btnNewPerson_Click"/>
+        <Button x:Name="btnDeletePerson" Content="Delete Person" Margin="378,186,306,222" IsEnabled="False" Click="btnDeletePerson_Click"/>
+        <Button x:Name="btnUp" Content="Up" Margin="378,224,306,183" IsEnabled="False" Click="btnUp_Click"/>
+        <Button x:Name="btnDown" Content="Down" Margin="378,260,306,147" IsEnabled="False" Click="btnDown_Click"/>
+
+    </Grid>
+</Window>

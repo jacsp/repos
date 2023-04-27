@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPFSimpleGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSimpleGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="1" HorizontalAlignment="Left" Margin="201,94,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbLine1" TextWrapping="Wrap" Text="Line 1" Width="120" Margin="256,96,424,316"/>
+        <Label Content="2" HorizontalAlignment="Left" Margin="201,151,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbLine2" TextWrapping="Wrap" Text="Line 2" Width="120" Margin="256,153,424,259"/>
+        <Label Content="3" HorizontalAlignment="Left" Margin="201,211,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbLine3" TextWrapping="Wrap" Text="Line 3" Width="120" Margin="256,213,424,199"/>
+        <Label Content="4" HorizontalAlignment="Left" Margin="201,277,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbLine4" TextWrapping="Wrap" Text="Line 4" Width="120" Margin="256,279,424,133"/>
+        <Button x:Name="btnScrollUp" Content="Scroll Up" Margin="463,123,214,289" Click="btnScrollUp_Click"/>
+        <Button x:Name="btnClear" Content="Clear" Margin="463,183,214,229" Click="btnClear_Click"/>
+        <Button x:Name="btnScrollDown" Content="Scroll Down" Margin="463,248,214,164" Click="btnScrollDown_Click"/>
+    </Grid>
+</Window>
