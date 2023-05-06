@@ -1,0 +1,33 @@
+﻿<Window x:Class="TusindfrydWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TusindfrydWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="300">
+    <Grid>
+        <Label Content="Blomstersorter" RenderTransformOrigin="0.5,0.5" Margin="-30,3,30,-3">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="40" Y="20"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBlock x:Name="tbFlowerSorts" TextWrapping="Wrap" Text="Ingen blomstersort tilføjet" Margin="10,53,10,37" Foreground="Black" Background="#FFEBEBEB"/>
+        <Button Content="Opret blomstersort" Width="150" Height="21" RenderTransformOrigin="0.5,0.5" Click="Button_Click_1">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="95"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>
