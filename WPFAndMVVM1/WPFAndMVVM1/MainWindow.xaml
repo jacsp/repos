@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPFAndMVVM1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFAndMVVM1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label1" Content="{Binding Path=Text, ElementName=textbox1}" Width="80" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,50,0,0" />
+        <TextBox x:Name="textbox1" TextWrapping="NoWrap" Text="TextBox1" Width="240" Height="25" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,100,0"/>
+        <TextBox x:Name="textbox2" TextWrapping="NoWrap" Text="{Binding Path=Text, ElementName=textbox3, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Width="150" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,100,0,0"/>
+        <TextBox x:Name="textbox3" TextWrapping="NoWrap" Text="TextBox3" Width="200" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="270,100,0,0"/>
+        <Slider x:Name="slider1" Value="{Binding Path=Text, ElementName=textbox4, UpdateSourceTrigger=PropertyChanged}" Width="160" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,150,0,0" Maximum="100"/>
+        <TextBox x:Name="textbox4" TextWrapping="NoWrap" Text="0" Width="200" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="270,150,0,0"/>
+        <Label x:Name="label2" Width="120" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="270,200,0,0" Content="{Binding MyLabelText, Mode=TwoWay}" />
+        <Button Content="Update Label" Width="90" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,200,0,0" Click="Button_Click"/>
+        <TextBox x:Name="textbox5" TextWrapping="NoWrap" Text="{Binding MyTextBoxText}" Width="200" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="270,250,0,0"/>
+        <Button x:Name="btnUpdateTextbox" Content="Update TextBox" Width="90" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,250,0,0" Click="btnUpdateTextbox_Click"/>
+
+    </Grid>
+</Window>
