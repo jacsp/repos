@@ -10,7 +10,7 @@ namespace TheMovies
     {
         private List<Movie> _movies;
 
-        public void RegisterMovie(Movie movie)
+        public void AddMovie(Movie movie)
         {
             _movies.Add(movie);
         }
