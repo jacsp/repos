@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // Create a controller object
+            Controller controller = new();
+
+            
         }
     }
 }

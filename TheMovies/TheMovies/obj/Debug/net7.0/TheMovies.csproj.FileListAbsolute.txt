@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\TheMovies\TheMovies\bin\Debug\net7.0\TheMovies.exe
+C:\Users\jacob\source\repos\TheMovies\TheMovies\bin\Debug\net7.0\TheMovies.deps.json
+C:\Users\jacob\source\repos\TheMovies\TheMovies\bin\Debug\net7.0\TheMovies.runtimeconfig.json
+C:\Users\jacob\source\repos\TheMovies\TheMovies\bin\Debug\net7.0\TheMovies.dll
+C:\Users\jacob\source\repos\TheMovies\TheMovies\bin\Debug\net7.0\TheMovies.pdb
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\TheMovies.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\TheMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\TheMovies.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\TheMovies.AssemblyInfo.cs
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\TheMovies.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\TheMovies.dll
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\refint\TheMovies.dll
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\TheMovies.pdb
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\TheMovies.genruntimeconfig.cache
+C:\Users\jacob\source\repos\TheMovies\TheMovies\obj\Debug\net7.0\ref\TheMovies.dll
