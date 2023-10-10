@@ -31,6 +31,11 @@ namespace BonusApp
             return Bonus(GetValueOfProducts());
         }
 
+        public double GetBonus(BonusProvider bonus)
+        {
+            return bonus(GetValueOfProducts());
+        }
+
         public double GetTotalPrice()
         {
             return GetValueOfProducts() - GetBonus();

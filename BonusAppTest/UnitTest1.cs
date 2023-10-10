@@ -98,5 +98,15 @@ namespace BonusAppTest
             //order.Bonus = Bonuses.FlatTwoIfAmountMoreThanFive; // <- Change to lambda 
             Assert.AreEqual(2.0, order.GetBonus());
         }
+
+        [TestMethod]
+        public void GetBonusByLambdaParameter_Test()
+        {
+            // Use TenPercent lambda expresssion as parameter to GetBonus
+            Assert.AreEqual(4.5, order.GetBonus(amount => amount * 0.1));
+
+            // Use FlatTwoIfAmountMoreThanFive lambda expresssion as parameter to GetBonus
+            Assert.AreEqual(2.0, order.GetBonus(amount => amount > 5 ? 2: 0));
+        }
     }
 }
