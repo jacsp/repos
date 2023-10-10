@@ -31,6 +31,7 @@ namespace BonusApp
             return Bonus(GetValueOfProducts());
         }
 
+        // Func<double, double> can replace BonusProvider, because they both take a double as a parameter, and return a double
         public double GetBonus(Func<double, double> bonus)
         {
             return bonus(GetValueOfProducts());
@@ -39,6 +40,11 @@ namespace BonusApp
         public double GetTotalPrice()
         {
             return GetValueOfProducts() - GetBonus();
+        }
+
+        public double GetTotalPrice(Func<double, double> bonus)
+        {
+            return GetValueOfProducts() - GetBonus(bonus);
         }
     }
 }

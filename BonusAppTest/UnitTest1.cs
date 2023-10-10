@@ -108,5 +108,13 @@ namespace BonusAppTest
             // Use FlatTwoIfAmountMoreThanFive lambda expresssion as parameter to GetBonus
             Assert.AreEqual(2.0, order.GetBonus(amount => amount > 5 ? 2: 0));
         }
+
+        [TestMethod]
+        public void GetTotalPriceByLambdaParameter_Test()
+        {
+            Assert.AreEqual(40.5, order.GetTotalPrice(amount => amount * 0.1));
+
+            Assert.AreEqual(43.0, order.GetTotalPrice(amount => amount > 5 ? 2 : 0));
+        }
     }
 }
