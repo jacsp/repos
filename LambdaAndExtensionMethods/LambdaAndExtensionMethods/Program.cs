@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Security.Cryptography.X509Certificates;
 
 namespace LambdaAndExtensionMethods
 {
@@ -20,6 +21,13 @@ namespace LambdaAndExtensionMethods
         Action<string> Alert;
         Predicate<int> Exists;
         Action<int, int> Area;
+
+        // Øvelse 4 Anonyme delegates til lambda
+        /*
+         * 1: (x, y) => x + y;
+         * 2: x => x * 10;
+         * 3: x => x * x;
+         */
 
         static void Main(string[] args)
         {
