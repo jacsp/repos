@@ -86,5 +86,17 @@ namespace BonusAppTest
             //order.Bonus = Bonuses.FlatTwoIfAmountMoreThanFive;  // <- Change to anonymous methods
             Assert.AreEqual(2.0, order.GetBonus());
         }
+
+        [TestMethod]
+        public void GetBonusLambda_Test()
+        {
+            order.Bonus = amount => amount * 0.1;
+            //order.Bonus = Bonuses.TenPercent; // <- Change to lambda 
+            Assert.AreEqual(4.5, order.GetBonus());
+
+            order.Bonus = amount => amount > 5 ? 2 : 0;
+            //order.Bonus = Bonuses.FlatTwoIfAmountMoreThanFive; // <- Change to lambda 
+            Assert.AreEqual(2.0, order.GetBonus());
+        }
     }
 }
