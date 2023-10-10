@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\BonusApp\bin\Debug\net6.0\BonusApp.exe
+C:\Users\jacob\source\repos\BonusApp\bin\Debug\net6.0\BonusApp.deps.json
+C:\Users\jacob\source\repos\BonusApp\bin\Debug\net6.0\BonusApp.runtimeconfig.json
+C:\Users\jacob\source\repos\BonusApp\bin\Debug\net6.0\BonusApp.dll
+C:\Users\jacob\source\repos\BonusApp\bin\Debug\net6.0\BonusApp.pdb
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\BonusApp.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\BonusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\BonusApp.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\BonusApp.AssemblyInfo.cs
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\BonusApp.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\BonusApp.dll
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\refint\BonusApp.dll
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\BonusApp.pdb
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\BonusApp.genruntimeconfig.cache
+C:\Users\jacob\source\repos\BonusApp\obj\Debug\net6.0\ref\BonusApp.dll
