@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LINQStuff/1.0.0": {
+        "runtime": {
+          "LINQStuff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQStuff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\bin\Debug\net7.0\LINQStuff.exe
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\bin\Debug\net7.0\LINQStuff.deps.json
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\bin\Debug\net7.0\LINQStuff.runtimeconfig.json
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\bin\Debug\net7.0\LINQStuff.dll
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\bin\Debug\net7.0\LINQStuff.pdb
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\LINQStuff.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\LINQStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\LINQStuff.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\LINQStuff.AssemblyInfo.cs
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\LINQStuff.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\LINQStuff.dll
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\refint\LINQStuff.dll
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\LINQStuff.pdb
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\LINQStuff.genruntimeconfig.cache
+C:\Users\jacob\source\repos\LINQStuff\LINQStuff\obj\Debug\net7.0\ref\LINQStuff.dll
