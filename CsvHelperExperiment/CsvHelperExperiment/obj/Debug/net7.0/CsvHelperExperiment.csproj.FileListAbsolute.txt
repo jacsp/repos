@@ -1,0 +1,17 @@
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.AssemblyInfo.cs
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\bin\Debug\net7.0\CsvHelperExperiment.exe
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\bin\Debug\net7.0\CsvHelperExperiment.deps.json
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\bin\Debug\net7.0\CsvHelperExperiment.runtimeconfig.json
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\bin\Debug\net7.0\CsvHelperExperiment.dll
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\bin\Debug\net7.0\CsvHelperExperiment.pdb
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.csproj.CopyComplete
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.dll
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\refint\CsvHelperExperiment.dll
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.pdb
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\CsvHelperExperiment.genruntimeconfig.cache
+C:\Users\jacob\source\repos\CsvHelperExperiment\CsvHelperExperiment\obj\Debug\net7.0\ref\CsvHelperExperiment.dll

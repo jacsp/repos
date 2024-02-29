@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "axUk6HuDOYCkM/XlzPgdVfknQPSwDx3VaT8O1t1yWKUp3f1IXWAiIQrvJ/tzM4QJl3HoAly+zYagCTl64Tvywg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jacob\\source\\repos\\CsvHelperExperiment\\CsvHelperExperiment\\CsvHelperExperiment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacob\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
